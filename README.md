@@ -1,8 +1,8 @@
 # Hello-World
 Hello World Demo
-# Bio: [Tea Larson-Hetrick]
+# Bio: Tea Larson-Hetrick
 
-![Tea Laraon-Hetrick]
+!Tea Laraon-Hetrick
 
 ## Personal Information
 - **Age:** 26
@@ -42,5 +42,3 @@ Hello World Demo
 - In a relationship with John since 2019
 
 ---
-
-This Markdown bio provides an overview of your personal, academic, and professional background, as well as your interests and challenges you've overcome.
