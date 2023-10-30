@@ -2,8 +2,6 @@
 Hello World Demo
 # Bio: Tea Larson-Hetrick
 
-!Tea Laraon-Hetrick
-
 ## Personal Information
 - **Age:** 26
 - **Gender:** Female
